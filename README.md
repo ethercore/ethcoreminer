@@ -43,11 +43,11 @@ ethcoreminer --help
 
 ### Examples connecting to pools
 
-Connecting to [pool.ethercore.org](https://pool.ethercore.org):
+Connecting to [pool.ethercore.io](https://pool.ethercore.io):
 
-`./ethcoreminer -P stratum1+tcp://0xaa16a61dec2d3e260cd1348e48cd259a5fb03f49.test@pool.ethercore.org:8008` or
+`./ethcoreminer -P stratum1+tcp://0xaa16a61dec2d3e260cd1348e48cd259a5fb03f49.test@pool.ethercore.io:8008` or
 
-`ethcoreminer.exe -P stratum1+tcp://0xaa16a61dec2d3e260cd1348e48cd259a5fb03f49.test@pool.ethercore.org:8008`
+`ethcoreminer.exe -P stratum1+tcp://0xaa16a61dec2d3e260cd1348e48cd259a5fb03f49.test@pool.ethercore.io:8008`
 
 ## Build
 
